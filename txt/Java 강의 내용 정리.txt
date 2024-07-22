@@ -1,0 +1,35 @@
+JVM이란?
+Java Virtual Machine의 약자로 자바 가상 머신이라는 뜻을 가지고 있음
+여러가지 기기 위에 Java 프로그램을 실행시킬 수 있는 가상의 기기를 만들어 주는 것을 의미
+
+Hello.java -> Java Complier -> hello.class -> JVM -> Devices
+
+Java Complier
+Java -> class 변환하는 코드
+운영체제가 읽을수 있는 class(Byte code) 확장자인 파일로 변환해주는 것
+
+인터프리터
+운영체제가 읽은 바이트 코드를 기기가 실행할 수 있는 기계어로 번역(row 언어)
+
+JIT 컴파일러
+인터프리터의 효율을 높여주는 서포터 해석기
+
+메모리 영역
+Java 데이터를 저장하는 영역
+
+클래스 로더
+Java class 바이트 코드를 메모리 영역으로 담는 운반기
+JVM으로 class(바이트 코드)를 불러와서 메모리에 저장함
+
+가비지 컬렉터(쓰레기 모으는)
+Java 쓰레기 청소기
+어느순간 안쓰이는 데이터들을 주기적으로 청소해주는 것
+
+JRE
+Java Runtime Environment 자바 실행 환경 이라는 뜻을 가지고 있다.
+자바를 실행할수 있는 환경일 뿐이다.
+
+JDK
+Java Development 자바 개발 키트라는 뜻을 가지고 있다.
+Java Compiler 기능이 있다.
+디버깅 기능하는 jdb 등의 기능이 있다.
