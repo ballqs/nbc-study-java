@@ -8,6 +8,8 @@ public class Task {
         String yoriTitle = sc.nextLine();
         double star = sc.nextDouble();
 
+        sc.nextLine();
+
         String[] content = new String[10];
         for (int i = 0; i < content.length; i++) {
             content[i] = sc.nextLine();
@@ -15,6 +17,7 @@ public class Task {
 
         System.out.println("[" + yoriTitle + "]");
         System.out.println("별점 : " + star + " (" + (star / 5) * 100 + "%)");
+
         for (int i = 0; i < content.length; i++) {
             System.out.println((i + 1) + ". " + content[i]);
         }

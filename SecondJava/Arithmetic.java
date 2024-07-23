@@ -1,5 +1,4 @@
 package SecondJava;
-
 public class Arithmetic {
     public static void main(String[] args) {
         // 기본적인 사칙연산

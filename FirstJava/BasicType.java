@@ -1,5 +1,4 @@
 package FirstJava;
-
 public class BasicType {
     public static void main(String[] args) {
         // 상수 : 맨 앞에 final를 선언해둘 것

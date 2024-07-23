@@ -1,5 +1,4 @@
 package FirstJava;
-
 public class ConvertType {
     public static void main(String[] args) {
         // 강제 형 변환 예제 : 변수의 타입을 바꾸는 방법
