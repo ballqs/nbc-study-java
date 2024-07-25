@@ -1,9 +1,3 @@
-package ThirdJava;
-
-import ThirdJava.Door;
-import ThirdJava.Tire;
-import ThirdJava.Handle;
-
 // [우리가 클래스를 만들기 위해서는 4가지 STEP이 필요합니다]
 // 1. 만들려고 하는 설계도는 선언합니다.(클래스 선언)
 // 2. 객체가 가지고 있어야할 속성(필드)을 정의합니다.

@@ -1,7 +1,3 @@
-package ThirdJava;
-
-import ThirdJava.Car;
-
 public class Main {
     public static void main(String[] args) {
         

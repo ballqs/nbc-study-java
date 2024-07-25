@@ -1,5 +1,3 @@
-package FirstJava;
-
 import java.util.Arrays;
 
 public class RefType {

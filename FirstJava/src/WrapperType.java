@@ -1,5 +1,3 @@
-package FirstJava;
-
 public class WrapperType {
     public static void main(String[] args) {
         // 래퍼 클래스 변수

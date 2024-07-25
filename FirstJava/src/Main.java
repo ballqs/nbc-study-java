@@ -1,5 +1,3 @@
-package FirstJava;
-
 // 클래스
 // 접근제어자
 //      public : 언제 어디서나 접근 가능
